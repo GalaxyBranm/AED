@@ -1,6 +1,6 @@
 **Trabajo Practico 0: C++ Hello World**
 
-##Objetivos:
+#Objetivos:
 
 IDE: Visual Studio Code.
 Compilador: G++ o MinGW
